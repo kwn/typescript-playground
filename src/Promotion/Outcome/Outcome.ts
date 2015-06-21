@@ -1,0 +1,5 @@
+interface Outcome {
+
+}
+
+export = Outcome;
